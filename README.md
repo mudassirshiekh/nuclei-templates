@@ -30,6 +30,7 @@ We hope that you also contribute by sending templates via **pull requests** or [
 
 
 ## Nuclei Templates overview
+## By Mudassir Alam
 
 
 An overview of the nuclei template project, including statistics on unique tags, author, directory, severity, and type of templates. The table below contains the top ten statistics for each matrix; an expanded version of this is [available here](TEMPLATES-STATS.md), and also available in [JSON](TEMPLATES-STATS.json) format for integration.
